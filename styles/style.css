@@ -47,8 +47,6 @@ ol {
   grid-template-areas: 'result content__details';
 }
 
-/* Левый блок */
-
 .result__video-container {
   inline-size: 711px;
   block-size: 386px;
@@ -171,8 +169,6 @@ ol {
   min-inline-size: 194px;
   align-self: flex-end;
 }
-
-/* Правый блок */
 
 .content__details {
   grid-area: content__details;
